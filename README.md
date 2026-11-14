@@ -1,4 +1,4 @@
-AeroGuard Antalya: Next-Day PM2.5 Air Quality Forecasting & School Decision Support
+SOLOTURK AeroGuard: Next-Day PM2.5 Air Quality & School Decision Support
 
 Track: AI + Climate
 Team: SOLOTURK (Solo Participant: Mustafa Kemal YILDIZLI)
